@@ -9,7 +9,7 @@ body {
   }
   
   form {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   
   input[type="text"] {
@@ -35,7 +35,7 @@ body {
   }
   
   li {
-    background: white;
+    background: Blue;
     padding: 10px;
     margin-bottom: 8px;
     border-left: 4px solid #28a745;
@@ -49,4 +49,5 @@ body {
     padding: 5px 10px;
     font-size: 12px;
   }
+
   
